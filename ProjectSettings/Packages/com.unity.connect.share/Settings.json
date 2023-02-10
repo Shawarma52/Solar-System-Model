@@ -21,7 +21,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"C:/Users/Ashle/Unity Stuff/Essentials 3D Project/new x3 Build;C:/Users/Ashle/Unity Stuff/Essentials 3D Project/New folder;C:/Users/Ashle/Unity Stuff/Essentials 3D Project/New New Build;C:/Users/Ashle/Unity Stuff/Essentials 3D Project/New Build;C:/Users/Ashle/Unity Stuff/Essentials 3D Project/WebGL Builds;;;;;\"}"
+                "value": "{\"m_Value\":\"C:/Users/Ashle/Unity Stuff/Essentials 3D Project/WebGLBuilds;C:/Users/Ashle/Unity Stuff/Essentials 3D Project/new x3 Build;C:/Users/Ashle/Unity Stuff/Essentials 3D Project/New folder;C:/Users/Ashle/Unity Stuff/Essentials 3D Project/New New Build;C:/Users/Ashle/Unity Stuff/Essentials 3D Project/New Build;C:/Users/Ashle/Unity Stuff/Essentials 3D Project/WebGL Builds;;;;\"}"
             }
         ]
     }
